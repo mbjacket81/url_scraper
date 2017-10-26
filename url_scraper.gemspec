@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
 
   spec.add_dependency 'hashie'
-  spec.add_dependency 'nokogiri', '~> 1.5.9'
+  spec.add_dependency 'nokogiri', '~> 1.6'
   spec.add_dependency 'rest-client', '~> 1.6.7'
   spec.add_dependency 'thor'
 end
